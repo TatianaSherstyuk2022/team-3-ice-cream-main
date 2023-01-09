@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ValeriaSarazhinska.github.io/team-3-ice-cream",
+  "homepage": "https://TatianaSherstyuk2022.github.io/team-3-ice-cream-main",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-3-ice-cream/"
+    "build": "parcel build src/*.html --public-url /team-3-ice-cream-main/"
   },
   "repository": {
     "type": "git",
